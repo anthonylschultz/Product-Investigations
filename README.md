@@ -1,10 +1,10 @@
 # product-investigations
 
 ## Audience Key analysis 
-Analysis on audience keys for all onboarding audiences. 
+Analysis on audience key usage for onboarding audiences. Investigated how audience keys are used across products and verticals.
 
 ## Data Provider analysis
-Investigated data provider customer usage and product limits.
+Investigated data provider customer usage, system bottlenecks, and potential areas of development.
 
 ## Duplicate DCM files
 Pulled reporting on duplicate DCM files for FBR audiences.
